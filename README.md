@@ -26,3 +26,10 @@ No more rejected resumes due to bad formatting — this tool ensures your resume
 ---
 
 ## 📂 Project Structure
+Ats-Friendly-Resume-Builder/
+│── public/ # Static files (CSS, JS, images)
+│── views/ # HTML/EJS templates
+│── server.js # Main Node.js server
+│── package.json # Dependencies & scripts
+│── README.md # Documentation
+│── .gitignore
